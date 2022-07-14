@@ -15,6 +15,7 @@ https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d
 #EXTINF:-1 tvg-logo="https://stringfixer.com/files/175219412.jpg",Canal 11
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Chanel
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=UDivbqAtr4UBRQ30Dz8NgQ&expires=1657785692&ip=193.27.12.134
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png",Canal Discoveri Chanel
 
