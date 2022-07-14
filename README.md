@@ -8,6 +8,7 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal7_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWXn2h3/Trecevisi-n-Guatemala.png",Canal 13
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
 #EXTINF:-1 tvg-logo="6",Canal Tnt
 
 #EXTINF:-1 tvg-logo="https://stringfixer.com/files/175219412.jpg",Canal 11
