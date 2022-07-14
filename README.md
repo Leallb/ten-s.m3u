@@ -18,7 +18,9 @@ https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png",Canal Discoveri Chanel
 
-#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",el chavo 24
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/150_.m3u8?token=EvhitrW6LBRGmjXsrGNo8w&expires=1657784981&ip=193.27.12.134
 
 #EXTINF:-1 tvg-logo="",
 
