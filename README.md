@@ -9,4 +9,5 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal7_360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWXn2h3/Trecevisi-n-Guatemala.png",Canal 13
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",pareja explosiva
+https://mania.evosrv.com/EvoSrv/iaJ9Y0qyJYTJ9gwoZTk8.mp4?md5=zLCzw4tSnhwpxizAH5Wkog&expires=1658016997
